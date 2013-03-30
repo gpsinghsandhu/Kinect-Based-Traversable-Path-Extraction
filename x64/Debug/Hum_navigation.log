@@ -1,0 +1,21 @@
+﻿Build started 10/26/2012 4:37:42 PM.
+     1>Project "D:\Study\OpenCV Projects\Hum_navigation\Hum_navigation\Hum_navigation.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\Hum_navigation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /ID:\OpenCV\Build\install\include /Zi /nologo /W3 /WX- /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt basic_navigation.cpp
+         basic_navigation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\OpenCV Projects\Hum_navigation\x64\Debug\Hum_navigation.exe" /NOLOGO /LIBPATH:D:\OpenCV\Build\install\lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_haartraining_engined.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_photo249d.lib opencv_ts249d.lib opencv_video249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\Hum_navigation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Study\OpenCV Projects\Hum_navigation\x64\Debug\Hum_navigation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\OpenCV Projects\Hum_navigation\x64\Debug\Hum_navigation.lib" /MACHINE:X64 x64\Debug\basic_navigation.obj
+         LINK : D:\Study\OpenCV Projects\Hum_navigation\x64\Debug\Hum_navigation.exe not found or not built by the last incremental link; performing full link
+         Hum_navigation.vcxproj -> D:\Study\OpenCV Projects\Hum_navigation\x64\Debug\Hum_navigation.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Study\OpenCV Projects\Hum_navigation\x64\Debug\Hum_navigation.exe;#1" /manifest x64\Debug\Hum_navigation.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\Hum_navigation.unsuccessfulbuild".
+         Touching "x64\Debug\Hum_navigation.lastbuildstate".
+     1>Done Building Project "D:\Study\OpenCV Projects\Hum_navigation\Hum_navigation\Hum_navigation.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.05
